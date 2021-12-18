@@ -4,17 +4,24 @@ Repository for Github API project for CSU33012- Software Engineering module
 # How to Run
 You will need access to a valid Github OAuth token to use these programs
 
-Make sure that Python 3.9.7 or later is installed
-
 Download zip of this project: https://github.com/marklysaght/SWENG-GithubAPI.git
 
-Install python library "pygal" with the following command 
+Make sure that Python 3.9.7 or later is installed
+
+Install pip with the following command
 
 ```
-pip install pygal
+python get_pip.py
 ```
 
-Navigate to the root folder of the project and run the following commands:
+Install dependencies with the following command 
+
+```
+pip install -r req.txt
+```
+
+Navigate to the root folder of the project and from there you can run any of the following.
+
 ```
 python toJSON.py
 ```
@@ -30,6 +37,7 @@ python emptyMongo.py
 ```
 python visualise.py
 ```
+There is an explanation below of what each script does.
 
 ### toJSON.py 
 Fetches information from the Github API about a specified user and writes it to a JSON file in the root directory
