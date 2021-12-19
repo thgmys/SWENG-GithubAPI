@@ -6,6 +6,8 @@ You will need access to a valid Github OAuth token to use these programs
 
 Download zip of this project: https://github.com/marklysaght/SWENG-GithubAPI.git
 
+Navigate to the root folder of the project and from there you can run any of the following.
+
 Make sure that Python 3.9.7 or later is installed
 
 Install pip with the following command
@@ -20,7 +22,7 @@ Install dependencies with the following command
 pip install -r req.txt
 ```
 
-Navigate to the root folder of the project and from there you can run any of the following.
+These are the commands to run the project
 
 ```
 python toJSON.py
