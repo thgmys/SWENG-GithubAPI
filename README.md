@@ -8,7 +8,7 @@ Download zip of this project: https://github.com/marklysaght/SWENG-GithubAPI.git
 
 Navigate to the root folder of the project and from there you can run any of the following.
 
-Make sure that Python 3.9.7 or later is installed
+Make sure that Python is installed
 
 Install pip with the following command
 
