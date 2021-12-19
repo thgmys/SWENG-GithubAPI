@@ -24,6 +24,9 @@ pip install -r req.txt
 
 These are the commands to run the project
 
+There is an explanation below of what each script does
+
+
 ```
 python toJSON.py
 ```
@@ -39,8 +42,6 @@ python emptyMongo.py
 ```
 python visualise.py
 ```
-There is an explanation below of what each script does.
-
 ### toJSON.py 
 Fetches information from the Github API about a specified user and writes it to a JSON file in the root directory
 
