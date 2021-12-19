@@ -2,7 +2,7 @@
 Repository for Github API project for CSU33012- Software Engineering module
 
 # How to Run
-You will need access to a valid Github OAuth token to use these programs
+You will need access to a valid Github personal access token to use these programs
 
 Download zip of this project: https://github.com/marklysaght/SWENG-GithubAPI.git
 
